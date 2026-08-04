@@ -1,0 +1,16 @@
+[
+  { "title": "ソーティ", "type": "daily" },
+  { "title": "オデシー", "type": "daily" },
+  { "title": "リンバス", "type": "daily" },
+  { "title": "ドメイン", "type": "daily" },
+  { "title": "ゴブ箱", "type": "daily" },
+  { "title": "モグガーデン管理", "type": "daily" },
+  { "title": "ノーグでオグメ付与", "type": "daily" },
+  { "title": "テメナスのきらきら", "type": "weekly" },
+  { "title": "アポリオンのきらきら", "type": "weekly" },
+  { "title": "エミネンス＆ユニティポイント交換", "type": "weekly" },
+  { "title": "アンバスケード", "type": "monthly" },
+  { "title": "マンスリークエスト", "type": "monthly" },
+  { "title": "トローブ箱開け", "type": "monthly" },
+  { "title": "ログインポイント消費", "type": "monthly" }
+]
